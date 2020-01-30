@@ -5,8 +5,9 @@ import './App.css';
 function App() {
   return(
     <div className= "App">
-      <Person name="Nishank" age="27"><br></br></Person>
-      <Person name="Prashant" age="28"><br></br></Person>
+      <h2>Prashant Mote</h2>
+      <h3>Nishank Rathod</h3>
+      <Person name="Prashant" age="30"> </Person>
     </div>
     );
   // return React.createElement(
